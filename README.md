@@ -30,7 +30,8 @@ Go Live
 ```
 
 ### Visualizaciòn :eyes: 
-![image](https://github.com/user-attachments/assets/23dec902-78e1-459f-bb8b-6564909b4307)
+![image](https://github.com/user-attachments/assets/dc51c611-5c39-4ef3-9ea8-bdfe722e012e)
+
 
 
 ### Estructura del Sitio Web 🏗️
